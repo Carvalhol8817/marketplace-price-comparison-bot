@@ -1,0 +1,15 @@
+```gitignore
+# Ambiente virtual
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.idea/
+.DS_Store
+
+# Excel gerado
+produtos.xlsx
