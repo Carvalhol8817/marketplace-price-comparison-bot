@@ -1,6 +1,6 @@
 # Price Comparison Bot - Mercado Livre
 
-Bot de automação web desenvolvido em **Python + Playwright** para pesquisar produtos no Mercado Livre, capturar os **5 primeiros resultados com menor preço aparente** e exportar os dados para Excel.
+Bot de automação web desenvolvido em **Python + Playwright** para pesquisar produtos no Mercado Livre, capturar os **5 primeiros resultados exibidos na busca** e exportar os dados para Excel.
 
 ---
 
